@@ -56,7 +56,7 @@ EFI do OpenCore para rodar macOS no HP EliteBook 840 G8 (Tiger Lake).
 | ECEnabler | 1.0.6 | [1Revenger1/ECEnabler](https://github.com/1Revenger1/ECEnabler) |
 | RestrictEvents | 1.1.7 | [acidanthera/RestrictEvents](https://github.com/acidanthera/RestrictEvents) |
 | AMFIPass | 1.4.1 | [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Acidanthera) |
-| WhateverXe | 0.8.4 | [b00t0x/WhateverXe](https://github.com/b00t0x/WhateverXe) |
+| WhateverXe | 0.8.5 | [b00t0x/WhateverXe](https://github.com/b00t0x/WhateverXe) |
 | WhateverXe Graphics (pacote, não é kext) | 0.4.5 | [b00t0x/WhateverXe-Graphics](https://github.com/b00t0x/WhateverXe-Graphics) |
 | AppleALC | 1.9.9 | [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) |
 | SimpleHDA | 1.0.2 | [laobamac/SimpleHDA](https://github.com/laobamac/SimpleHDA) |
