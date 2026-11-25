@@ -1084,7 +1084,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-allow3d -disablegfxfirmware -igfxdvmt -btleadv -itlawdlcoexprobe -itlawdliface -itlawdlnativeup -itlawdlcoexrx -itlawdlcoextx -itlawdlcoexmulti -itlawdlcoexdata -itlawdlmitx -itlawdlelicit -itlawdlcaps -itlawdlsvcmerge -itlawdlawsync itlawdlintcoal=4 -itlawdlcoexbatx -itlawdlcoexpeerpause itlawdltxqueue=4096 -s0ixd3 -s0ixacnortc -tgldmic itlwm_he=1</string>
+				<string>-allow3d -disablegfxfirmware -igfxdvmt -btleadv -itlawdlcoexprobe -itlawdliface -itlawdlnativeup -itlawdlcoexrx -itlawdlcoextx -itlawdlcoexmulti -itlawdlcoexdata -itlawdlmitx -itlawdlelicit -itlawdlcaps -itlawdlsvcmerge -itlawdlawsync itlawdlintcoal=4 -itlawdlcoexbatx -itlawdlcoexpeerpause itlawdltxqueue=4096 -s0ixd3 -s0ixacnortc -tgldmic itlwm_he=1 -nodisplaysleepDC6</string>
 				<key>csr-active-config</key>
 				<data>
 				AwoAAA==

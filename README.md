@@ -20,7 +20,7 @@ EFI do OpenCore para rodar macOS no HP EliteBook 840 G8 (Tiger Lake).
 ## O que funciona
 
 - **Aceleração gráfica (Iris Xe):** Metal 2, com WhateverXe. Exige o pacote [WhateverXe Graphics](https://github.com/b00t0x/WhateverXe-Graphics/releases) instalado no sistema, na versão correspondente à kext (veja a lista de kexts).
-- **Tela:** 1920x1080.
+- **Tela:** 1920x1080. A tela volta normalmente depois de apagar por inatividade graças ao boot-arg `-nodisplaysleepDC6`. Sem ele, o painel interno fica preto ao acender ([WhateverXe #63](https://github.com/b00t0x/WhateverXe/issues/63)).
 - **Brilho da tela e teclas de brilho:** BrightnessKeys e SSDT-PNLF.
 - **Wi-Fi:** ForbiddenItlwm, com Wi-Fi 6 (802.11ax) em 2,4 GHz e 5 GHz, e AirDrop.
 - **Bluetooth:** IntelBluetoothFirmware, BlueToolFixup e BTLEAdvFixup.
